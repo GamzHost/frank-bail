@@ -1,5 +1,5 @@
 {
-    "name": "@yumenative/baileys",
+    "name": "@RILLYZY/baileys",
     "version": "2.0.3",
     "description": "WhatsApp API Modification By K",
     "keywords": [
@@ -103,7 +103,7 @@
             "optional": true
         }
     },
-    "packageManager": "yarn@1.22.19",
+    "packageManager": "yarn@4.9.2",
     "engines": {
         "node": ">=20.0.0"
     }
